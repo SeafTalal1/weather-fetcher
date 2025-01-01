@@ -39,7 +39,7 @@ Additionally, you'll need to obtain an API key from OpenWeatherMap. You can sign
 To run the script, simply execute the Python file:
 
 ```
-python weather_app.py
+python weather.py
 ```
 
 The script will display the ASCII art banner and prompt the user to enter a city name. After entering the city name, the script will fetch the weather data and display the relevant information.

@@ -60,7 +60,7 @@ The script relies on the following external libraries:
 Here's an example of how the script can be used:
 
 ```
-$ python weather_app.py
+$ python weather.py
 
 __        __         _   _                       _   ___
 \ \      / /__  __ _| |_| |__   ___ _ __  __   _/ | / _ \

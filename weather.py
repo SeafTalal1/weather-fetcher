@@ -5,7 +5,8 @@ import datetime
 import os
 import pyfiglet
 
-KEY = "9a0d15bde47b97ef8589488c44498414"
+# Put your key here
+KEY = ""
 
 # Grep lat and lon from the city name 
 def city_info(city):
